@@ -17,7 +17,7 @@
 ">
       <a href="C:/xampp/htdocs/Materialize/logo.png" class="brand-logo center">Logo</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="index.php">register</a></li>
+        <li><a href="index.php">daftarkan diri anda</a></li>
       </ul>
     </div>
   </nav>
